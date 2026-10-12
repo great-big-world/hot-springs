@@ -20,21 +20,21 @@ import java.util.function.Supplier;
 import static dev.creoii.greatbigworld.hotsprings.HotSprings.ITEMS;
 
 public final class HotSpringsItems {
-    public static RegistrySupplier<Item> GOLDEN_TRAVERTINE = registerBlockItem(ITEMS, "golden_travertine", () -> HotSpringsBlocks.GOLDEN_TRAVERTINE.get());
-    public static RegistrySupplier<Item> PEACH_TRAVERTINE = registerBlockItem(ITEMS, "peach_travertine", () -> HotSpringsBlocks.PEACH_TRAVERTINE.get());
-    public static RegistrySupplier<Item> IVORY_TRAVERTINE = registerBlockItem(ITEMS, "ivory_travertine", () -> HotSpringsBlocks.IVORY_TRAVERTINE.get());
-    public static RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE = registerBlockItem(ITEMS, "polished_golden_travertine", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE.get());
-    public static RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE_STAIRS = registerBlockItem(ITEMS, "polished_golden_travertine_stairs", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE_STAIRS.get());
-    public static RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE_SLAB = registerBlockItem(ITEMS, "polished_golden_travertine_slab", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE_SLAB.get());
-    public static RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE_WALL = registerBlockItem(ITEMS, "polished_golden_travertine_wall", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE_WALL.get());
-    public static RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE = registerBlockItem(ITEMS, "polished_peach_travertine", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE.get());
-    public static RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE_STAIRS = registerBlockItem(ITEMS, "polished_peach_travertine_stairs", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE_STAIRS.get());
-    public static RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE_SLAB = registerBlockItem(ITEMS, "polished_peach_travertine_slab", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE_SLAB.get());
-    public static RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE_WALL = registerBlockItem(ITEMS, "polished_peach_travertine_wall", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE_WALL.get());
-    public static RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE = registerBlockItem(ITEMS, "polished_ivory_travertine", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE.get());
-    public static RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE_STAIRS = registerBlockItem(ITEMS, "polished_ivory_travertine_stairs", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE_STAIRS.get());
-    public static RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE_SLAB = registerBlockItem(ITEMS, "polished_ivory_travertine_slab", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE_SLAB.get());
-    public static RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE_WALL = registerBlockItem(ITEMS, "polished_ivory_travertine_wall", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE_WALL.get());
+    public static final RegistrySupplier<Item> GOLDEN_TRAVERTINE = registerBlockItem(ITEMS, "golden_travertine", () -> HotSpringsBlocks.GOLDEN_TRAVERTINE.get());
+    public static final RegistrySupplier<Item> PEACH_TRAVERTINE = registerBlockItem(ITEMS, "peach_travertine", () -> HotSpringsBlocks.PEACH_TRAVERTINE.get());
+    public static final RegistrySupplier<Item> IVORY_TRAVERTINE = registerBlockItem(ITEMS, "ivory_travertine", () -> HotSpringsBlocks.IVORY_TRAVERTINE.get());
+    public static final RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE = registerBlockItem(ITEMS, "polished_golden_travertine", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE.get());
+    public static final RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE_STAIRS = registerBlockItem(ITEMS, "polished_golden_travertine_stairs", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE_STAIRS.get());
+    public static final RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE_SLAB = registerBlockItem(ITEMS, "polished_golden_travertine_slab", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE_SLAB.get());
+    public static final RegistrySupplier<Item> POLISHED_GOLDEN_TRAVERTINE_WALL = registerBlockItem(ITEMS, "polished_golden_travertine_wall", () -> HotSpringsBlocks.POLISHED_GOLDEN_TRAVERTINE_WALL.get());
+    public static final RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE = registerBlockItem(ITEMS, "polished_peach_travertine", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE.get());
+    public static final RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE_STAIRS = registerBlockItem(ITEMS, "polished_peach_travertine_stairs", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE_STAIRS.get());
+    public static final RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE_SLAB = registerBlockItem(ITEMS, "polished_peach_travertine_slab", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE_SLAB.get());
+    public static final RegistrySupplier<Item> POLISHED_PEACH_TRAVERTINE_WALL = registerBlockItem(ITEMS, "polished_peach_travertine_wall", () -> HotSpringsBlocks.POLISHED_PEACH_TRAVERTINE_WALL.get());
+    public static final RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE = registerBlockItem(ITEMS, "polished_ivory_travertine", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE.get());
+    public static final RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE_STAIRS = registerBlockItem(ITEMS, "polished_ivory_travertine_stairs", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE_STAIRS.get());
+    public static final RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE_SLAB = registerBlockItem(ITEMS, "polished_ivory_travertine_slab", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE_SLAB.get());
+    public static final RegistrySupplier<Item> POLISHED_IVORY_TRAVERTINE_WALL = registerBlockItem(ITEMS, "polished_ivory_travertine_wall", () -> HotSpringsBlocks.POLISHED_IVORY_TRAVERTINE_WALL.get());
 
     public static void register() {
         ITEMS.register();

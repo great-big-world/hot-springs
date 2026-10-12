@@ -10,7 +10,7 @@ import net.minecraft.world.level.levelgen.feature.Feature;
 import static dev.creoii.greatbigworld.hotsprings.HotSprings.FEATURE_TYPES;
 
 public final class HotSpringsFeatureTypes {
-    public static RegistrySupplier<MapCodec<? extends Feature>> HOT_SPRING = FEATURE_TYPES.register(Identifier.fromNamespaceAndPath(HotSprings.GBW, "hot_spring"), () -> HotSpringFeature.CODEC);
+    public static final RegistrySupplier<MapCodec<? extends Feature>> HOT_SPRING = FEATURE_TYPES.register(Identifier.fromNamespaceAndPath(HotSprings.GBW, "hot_spring"), () -> HotSpringFeature.CODEC);
 
     public static void register() {
         FEATURE_TYPES.register();
