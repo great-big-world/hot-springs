@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "great_big_world:block/polished_golden_travertine",
-    "side": "great_big_world:block/polished_golden_travertine",
-    "top": "great_big_world:block/polished_golden_travertine"
-  }
-}
