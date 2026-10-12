@@ -1,7 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "great_big_world:peach_travertine",
-  "result": {
-    "id": "great_big_world:polished_peach_travertine"
-  }
-}
