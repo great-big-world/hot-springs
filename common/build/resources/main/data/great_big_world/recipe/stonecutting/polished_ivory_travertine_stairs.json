@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "great_big_world:ivory_travertine",
+    "great_big_world:polished_ivory_travertine"
+  ],
+  "result": {
+    "id": "great_big_world:polished_ivory_travertine_stairs"
+  }
+}

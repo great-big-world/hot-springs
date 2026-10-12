@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "polished_travertine_slabs",
+  "key": {
+    "#": "great_big_world:polished_golden_travertine"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "id": "great_big_world:polished_golden_travertine_slab",
+    "count": 6
+  }
+}

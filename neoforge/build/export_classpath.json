@@ -1,0 +1,20 @@
+{
+  "projectPath": ":neoforge",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\build\\classes\\java\\test",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\build\\resources\\test",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\out\\production\\ladder-sprint.neoforge.test",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\out\\test\\classes",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\out\\test\\resources"
+    ],
+    "main": [
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\build\\classes\\java\\main",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\build\\resources\\main",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\build\\devlibs\\ladder-sprint-neoforge-0.0.1+1.21.1-dev.jar",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\out\\production\\ladder-sprint.neoforge.main",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\out\\production\\classes",
+      "C:\\Users\\jackr\\Documents\\Projects\\Mods\\ladder-sprint\\neoforge\\out\\production\\resources"
+    ]
+  }
+}

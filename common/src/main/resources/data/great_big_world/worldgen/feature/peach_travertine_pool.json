@@ -1,0 +1,38 @@
+{
+  "type": "great_big_world:hot_spring",
+  "y_offset": -1,
+  "rim_size": {
+    "type": "minecraft:uniform",
+    "min_inclusive": 0,
+    "max_inclusive": 2
+  },
+  "rim_state": {
+    "type": "minecraft:simple",
+    "state": "great_big_world:peach_travertine"
+  },
+  "base_state": {
+    "type": "minecraft:simple",
+    "state": "minecraft:sulfur"
+  },
+  "inner_state": {
+    "type": "minecraft:simple",
+    "state": "minecraft:water"
+  },
+  "height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": 2,
+    "max_inclusive": 4
+  },
+  "start_radius": {
+    "type": "minecraft:uniform",
+    "min_inclusive": 1,
+    "max_inclusive": 2
+  },
+  "inner_depth": {
+    "type": "minecraft:uniform",
+    "min_inclusive": 2,
+    "max_inclusive": 4
+  },
+  "replaceable": "great_big_world:travertine_pool_replaceable",
+  "solid_rim": true
+}

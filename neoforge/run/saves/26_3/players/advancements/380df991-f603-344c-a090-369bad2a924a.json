@@ -1,0 +1,19 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-20 22:48:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sulfur_caves": "2026-10-12 13:31:30 -0400",
+      "minecraft:mangrove_swamp": "2026-10-12 13:32:12 -0400",
+      "minecraft:stony_shore": "2026-09-20 22:48:32 -0400",
+      "minecraft:savanna": "2026-10-12 13:31:33 -0400",
+      "minecraft:plains": "2026-09-20 22:49:21 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 5023
+}

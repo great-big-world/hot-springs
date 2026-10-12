@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "great_big_world:ivory_travertine": 2,
+      "great_big_world:peach_travertine": 2,
+      "great_big_world:golden_travertine": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2237,
+      "minecraft:total_world_time": 2272,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1180,
+      "minecraft:sneak_time": 24,
+      "minecraft:play_time": 2237,
+      "minecraft:time_since_death": 2237
+    }
+  },
+  "DataVersion": 5023
+}

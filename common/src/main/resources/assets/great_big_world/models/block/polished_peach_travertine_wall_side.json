@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "great_big_world:block/polished_peach_travertine"
+  }
+}

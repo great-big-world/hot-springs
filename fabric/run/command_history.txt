@@ -1,0 +1,50 @@
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 22806 177 29535
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 27131 164 32023
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 32994 126 36992
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 38658 161 40083
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 45405 -3 45591
+/gamemode spectator
+/tp @s 45405 -3 45591
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 49221 61 52799
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 55973 -58 55280
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 58888 135 57074
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp ~2500 ~ ~2500
+/locate biome great_big_world:hot_springs
+/tp @s 66725 -62 64721
+/gamemode creative
+/gamemode spectator
+/effect give Player684 minecraft:night_vision infinite 1 true
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/weather clear
+/gamerule advance_weather false
+/gamemode spectator

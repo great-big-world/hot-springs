@@ -1,0 +1,23 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2026-10-11 22:20:17 -0400",
+      "minecraft:windswept_gravelly_hills": "2026-10-11 22:19:00 -0400",
+      "minecraft:plains": "2026-10-11 22:19:05 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-10-11 22:18:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-11 22:18:59 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

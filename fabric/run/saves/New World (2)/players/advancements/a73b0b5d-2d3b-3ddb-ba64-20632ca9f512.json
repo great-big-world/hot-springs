@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2026-10-11 21:28:09 -0400",
+      "minecraft:forest": "2026-10-11 21:28:48 -0400",
+      "minecraft:sparse_jungle": "2026-10-11 21:28:24 -0400",
+      "minecraft:ocean": "2026-10-11 21:28:33 -0400",
+      "minecraft:savanna": "2026-10-11 21:28:34 -0400",
+      "minecraft:plains": "2026-10-11 21:28:36 -0400",
+      "minecraft:warm_ocean": "2026-10-11 21:28:43 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-11 21:28:08 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

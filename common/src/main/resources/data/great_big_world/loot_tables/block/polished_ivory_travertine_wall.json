@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "great_big_world:polished_ivory_travertine_wall"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "great_big_world:blocks/polished_ivory_travertine_wall"
+}

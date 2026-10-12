@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "great_big_world:block/golden_travertine_top",
+    "side": "great_big_world:block/golden_travertine"
+  }
+}

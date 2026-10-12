@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "hot_springs",
+  "version": "${version}",
+  "name": "Hot Springs",
+  "description": "Adds the Hot Springs biome",
+  "authors": ["creoii"],
+  "contact": {
+    "homepage": "https://greatbigworld.creoii.dev"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/hot_springs/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.creoii.greatbigworld.hotsprings.fabric.HotSpringsFabric"
+    ],
+    "client": [
+      "dev.creoii.greatbigworld.hotsprings.fabric.client.GlassOverhaulFabricClient"
+    ]
+  },
+  "mixins": [
+    "hotsprings.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25"
+    ,"architectury": ">=22.0.4"
+    ,"fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

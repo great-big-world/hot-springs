@@ -1,0 +1,39 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "hot_springs"
+version = "0.0.1+26.3"
+displayName = "Hot Springs"
+authors = "creoii"
+description = '''
+Adds the Hot Springs biome
+'''
+displayURL="https://greatbigworld.creoii.dev"
+iconFile = "src/main/resources/assets/hot_springs/icon.png"
+
+[[dependencies.hot_springs]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.hot_springs]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.hot_springs]]
+modId = "architectury"
+type = "required"
+versionRange = "[22.0.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "hotsprings.mixins.json"

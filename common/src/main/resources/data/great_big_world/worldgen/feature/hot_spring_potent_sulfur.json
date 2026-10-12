@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:random_selector",
+  "features": [
+    {
+      "chance": 0.2,
+      "feature": {
+        "feature": "great_big_world:potent_sulfur_geyser",
+        "placement": []
+      }
+    }
+  ],
+  "default": "great_big_world:no_op"
+}

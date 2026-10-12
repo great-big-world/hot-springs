@@ -1,0 +1,35 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2026-10-10 00:50:15 -0400",
+      "minecraft:cold_ocean": "2026-10-10 00:47:55 -0400",
+      "minecraft:flower_forest": "2026-10-10 00:51:41 -0400",
+      "minecraft:beach": "2026-10-10 00:48:56 -0400",
+      "minecraft:dark_forest": "2026-10-10 00:47:30 -0400",
+      "minecraft:forest": "2026-10-10 00:47:54 -0400",
+      "minecraft:taiga": "2026-10-10 00:50:46 -0400",
+      "minecraft:mangrove_swamp": "2026-10-10 00:48:03 -0400",
+      "minecraft:river": "2026-10-10 00:49:51 -0400",
+      "minecraft:lukewarm_ocean": "2026-10-10 00:48:54 -0400",
+      "minecraft:old_growth_birch_forest": "2026-10-10 00:49:42 -0400",
+      "minecraft:sulfur_caves": "2026-10-10 00:48:23 -0400",
+      "minecraft:desert": "2026-10-10 00:50:31 -0400",
+      "minecraft:ocean": "2026-10-10 00:51:01 -0400",
+      "minecraft:jungle": "2026-10-10 00:51:31 -0400",
+      "minecraft:sunflower_plains": "2026-10-10 00:51:18 -0400",
+      "minecraft:meadow": "2026-10-10 00:51:26 -0400",
+      "minecraft:windswept_hills": "2026-10-10 00:51:17 -0400",
+      "minecraft:savanna": "2026-10-10 00:48:59 -0400",
+      "minecraft:windswept_savanna": "2026-10-10 00:51:06 -0400",
+      "minecraft:plains": "2026-10-10 00:47:41 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-10 00:47:29 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

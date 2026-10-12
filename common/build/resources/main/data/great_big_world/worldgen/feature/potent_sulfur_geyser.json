@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "great_big_world:magma_block",
+    "great_big_world:potent_sulfur"
+  ]
+}

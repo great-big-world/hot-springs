@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:sequence",
+  "features": [
+    "great_big_world:ivory_travertine_pool",
+    "great_big_world:hot_spring_potent_sulfur"
+  ]
+}

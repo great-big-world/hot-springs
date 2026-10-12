@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "great_big_world:polished_peach_travertine_wall": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2084,
+      "minecraft:time_since_rest": 503,
+      "minecraft:walk_one_cm": 1007,
+      "minecraft:total_world_time": 520,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1263,
+      "minecraft:crouch_one_cm": 54,
+      "minecraft:sneak_time": 11,
+      "minecraft:play_time": 503,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 503
+    }
+  },
+  "DataVersion": 5023
+}
